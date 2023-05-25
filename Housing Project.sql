@@ -1,5 +1,7 @@
 select * from [nashville housing].dbo. projectportfolio
 
+Change DateFormat from DateTime to Date
+
  alter table ProjectPortfolio
  add ConvertedSaleDate date
 
